@@ -7,4 +7,5 @@ The program allows:
 - The change of applications' themes, using different buttons for each theme.
 
 Functioning
--Using the "Load Style 1" and "Load Style 2" push buttons changes the application style: colors, fonts, and button sizes.
+
+Using the "Load Style 1" and "Load Style 2" push buttons changes the application style: colors, fonts, and button sizes.
